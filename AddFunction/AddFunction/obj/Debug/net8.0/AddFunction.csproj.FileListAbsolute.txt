@@ -1,0 +1,14 @@
+C:\Users\khushboo.g_INT1596\source\repos\AddFunction\AddFunction\bin\Debug\net8.0\AddFunction.exe
+C:\Users\khushboo.g_INT1596\source\repos\AddFunction\AddFunction\bin\Debug\net8.0\AddFunction.deps.json
+C:\Users\khushboo.g_INT1596\source\repos\AddFunction\AddFunction\bin\Debug\net8.0\AddFunction.runtimeconfig.json
+C:\Users\khushboo.g_INT1596\source\repos\AddFunction\AddFunction\bin\Debug\net8.0\AddFunction.dll
+C:\Users\khushboo.g_INT1596\source\repos\AddFunction\AddFunction\bin\Debug\net8.0\AddFunction.pdb
+C:\Users\khushboo.g_INT1596\source\repos\AddFunction\AddFunction\obj\Debug\net8.0\AddFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khushboo.g_INT1596\source\repos\AddFunction\AddFunction\obj\Debug\net8.0\AddFunction.AssemblyInfoInputs.cache
+C:\Users\khushboo.g_INT1596\source\repos\AddFunction\AddFunction\obj\Debug\net8.0\AddFunction.AssemblyInfo.cs
+C:\Users\khushboo.g_INT1596\source\repos\AddFunction\AddFunction\obj\Debug\net8.0\AddFunction.csproj.CoreCompileInputs.cache
+C:\Users\khushboo.g_INT1596\source\repos\AddFunction\AddFunction\obj\Debug\net8.0\AddFunction.dll
+C:\Users\khushboo.g_INT1596\source\repos\AddFunction\AddFunction\obj\Debug\net8.0\refint\AddFunction.dll
+C:\Users\khushboo.g_INT1596\source\repos\AddFunction\AddFunction\obj\Debug\net8.0\AddFunction.pdb
+C:\Users\khushboo.g_INT1596\source\repos\AddFunction\AddFunction\obj\Debug\net8.0\AddFunction.genruntimeconfig.cache
+C:\Users\khushboo.g_INT1596\source\repos\AddFunction\AddFunction\obj\Debug\net8.0\ref\AddFunction.dll
